@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import urlUtils from "./util/url";
-import PriorAuth from "./components/PriorAuth/PriorAuth";
+import PriorAuth from "./components/Priorauth/PriorAuth";
 
 // Prior Auth server params
 const PRIORAUTH_SERVICE = {
